@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice
 | [0015-3sum](https://github.com/karthikGonchigar/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/karthikGonchigar/LeetCode/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/karthikGonchigar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/karthikGonchigar/LeetCode/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -30,5 +31,6 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/karthikGonchigar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/karthikGonchigar/LeetCode/tree/master/0443-string-compression) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/karthikGonchigar/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 <!---LeetCode Topics End-->
