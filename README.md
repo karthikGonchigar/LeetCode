@@ -44,6 +44,7 @@ My LeetCode solutions and DSA practice
 | [0125-valid-palindrome](https://github.com/karthikGonchigar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/karthikGonchigar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/karthikGonchigar/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikGonchigar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/karthikGonchigar/LeetCode/tree/master/0443-string-compression) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/karthikGonchigar/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Hash Table
@@ -52,6 +53,7 @@ My LeetCode solutions and DSA practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikGonchigar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/karthikGonchigar/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/karthikGonchigar/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikGonchigar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -68,4 +70,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karthikGonchigar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikGonchigar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikGonchigar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
