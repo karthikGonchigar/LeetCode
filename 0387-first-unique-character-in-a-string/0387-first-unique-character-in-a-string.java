@@ -1,16 +1,16 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character, Integer> map = new LinkedHashMap<>();
-        for(char ch : s.toCharArray()){
-            map.put(ch, map.getOrDefault(ch, 0)+1);
-        }
         int index = 0;
+        int [] fre = new int [26];
         for(char ch : s.toCharArray()){
-            if(map.get(ch) == 1)
+            fre[ch-'a']++;
+        }
+        for(char ch : s.toCharArray()){
+            if(fre[ch-'a'] == 1)
                 return index;
             else
                 index++;
         }
         return -1;
-    }
+    } 
 }
